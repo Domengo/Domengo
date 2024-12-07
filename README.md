@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domengo&show_icons=true)](https://github.com/Domengo/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-888%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -80,7 +80,7 @@ Boogie                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2024 18:53:57 UTC
+ Last Updated on 07/12/2024 18:51:10 UTC
 <!--END_SECTION:waka-->
 
 
