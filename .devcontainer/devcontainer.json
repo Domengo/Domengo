@@ -1,0 +1,24 @@
+{
+    "name": "Ubuntu 22.04 - Node.js LTS",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+    "features": {
+      "ghcr.io/devcontainers/features/node:1": {
+        "version": "lts"
+      }
+    },
+    "customizations": {
+      "vscode": {
+        "settings": {
+          "terminal.integrated.defaultProfile.linux": "bash",
+          "editor.formatOnSave": true
+        },
+        "extensions": [
+          "dbaeumer.vscode-eslint",
+          "esbenp.prettier-vscode"
+        ]
+      }
+    },
+    "postCreateCommand": "npm install",
+    "remoteUser": "vscode"
+  }
+  
