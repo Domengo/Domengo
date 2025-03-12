@@ -3,9 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domengo&show_icons=true)](https://github.com/Domengo/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C042%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C043%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -46,21 +46,21 @@ Sunday                   206 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               6 hrs 13 mins       ███████████████████░░░░░░   75.05 % 
-JavaScript               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Solidity                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+TypeScript               5 hrs 34 mins       ███████████████████░░░░░░   74.61 % 
+JavaScript               1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Solidity                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-my-expo-app              6 hrs 38 mins       ████████████████████░░░░░   80.18 % 
-azureuser                1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+my-expo-app              5 hrs 50 mins       ████████████████████░░░░░   78.03 % 
+azureuser                1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
 
 💻 Operating System: 
-Linux                    8 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,7 +80,7 @@ Boogie                   1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 18:48:33 UTC
+ Last Updated on 12/03/2025 18:48:50 UTC
 <!--END_SECTION:waka-->
 
 
