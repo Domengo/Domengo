@@ -44,16 +44,20 @@ Sunday                   209 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               55 mins             ███████████████░░░░░░░░░░   58.85 % 
+Solidity                 22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Bash                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 33 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+blockchain               1 hr 33 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -73,7 +77,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/05/2025 18:45:55 UTC
+ Last Updated on 08/05/2025 18:46:47 UTC
 <!--END_SECTION:waka-->
 
 
