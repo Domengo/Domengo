@@ -11,6 +11,8 @@
 
 > 📦 128.0 kB Used in GitHub's Storage 
  > 
+> 🏆 152 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 82 Public Repositories 
@@ -77,7 +79,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2025 18:46:27 UTC
+ Last Updated on 13/05/2025 18:46:45 UTC
 <!--END_SECTION:waka-->
 
 
