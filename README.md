@@ -3,13 +3,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domengo&show_icons=true)](https://github.com/Domengo/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 128.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 155 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -44,22 +46,21 @@ Sunday                   209 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Solidity                 3 hrs 12 mins       █████████████████░░░░░░░░   69.27 % 
-JavaScript               40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Bash                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Solidity                 3 hrs 7 mins        ███████████████████░░░░░░   77.17 % 
+JavaScript               31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+JSON                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 AsciiDoc                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 28 mins       ████████████████████████░   96.24 % 
-Sublime Text             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+VS Code                  3 hrs 52 mins       ████████████████████████░   95.70 % 
+Sublime Text             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 
 🐱‍💻 Projects: 
-blockchain               4 hrs 38 mins       █████████████████████████   100.00 % 
+blockchain               4 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 3 mins        ██████████████████████░░░   87.37 % 
-Linux                    35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Windows                  4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +80,7 @@ Solidity                 2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2025 18:44:06 UTC
+ Last Updated on 25/05/2025 18:44:21 UTC
 <!--END_SECTION:waka-->
 
 
