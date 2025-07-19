@@ -9,7 +9,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 130.8 kB Used in GitHub's Storage 
+> 📦 130.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -44,20 +46,16 @@ Sunday                   247 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Python                   6 mins              ██████████████████░░░░░░░   72.40 % 
-Bash                     1 min               █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-trend                    8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -77,7 +75,7 @@ Solidity                 3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2025 18:50:01 UTC
+ Last Updated on 19/07/2025 18:46:57 UTC
 <!--END_SECTION:waka-->
 
 
