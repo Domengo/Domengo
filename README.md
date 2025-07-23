@@ -3,13 +3,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domengo&show_icons=true)](https://github.com/Domengo/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 130.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 342 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -44,17 +46,17 @@ Sunday                   247 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               3 hrs 2 mins        ████████████████████████░   94.62 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+TypeScript               3 hrs 33 mins       ████████████████████████░   94.38 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-farmsmart                3 hrs 13 mins       █████████████████████████   100.00 % 
+farmsmart                3 hrs 45 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,7 +76,7 @@ Solidity                 3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2025 18:50:15 UTC
+ Last Updated on 23/07/2025 18:49:40 UTC
 <!--END_SECTION:waka-->
 
 
