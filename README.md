@@ -3,15 +3,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domengo&show_icons=true)](https://github.com/Domengo/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 130.9 kB Used in GitHub's Storage 
- > 
-> 🏆 343 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -46,17 +44,19 @@ Sunday                   247 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               3 hrs 54 mins       ██████████████████████░░░   89.63 % 
-JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+TypeScript               5 hrs 5 mins        ██████████████████████░░░   87.49 % 
+JSON                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-farmsmart                4 hrs 22 mins       █████████████████████████   100.00 % 
+farmsmart                5 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -76,7 +76,7 @@ Solidity                 3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2025 18:49:29 UTC
+ Last Updated on 25/07/2025 18:50:21 UTC
 <!--END_SECTION:waka-->
 
 
