@@ -3,13 +3,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domengo&show_icons=true)](https://github.com/Domengo/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 130.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 343 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -44,16 +46,17 @@ Sunday                   247 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               5 hrs 5 mins        ██████████████████████░░░   87.49 % 
-JSON                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+TypeScript               5 hrs 5 mins        ██████████████████████░░░   87.29 % 
+JSON                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-farmsmart                5 hrs 49 mins       █████████████████████████   100.00 % 
+farmsmart                5 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Linux                    5 hrs 50 mins       █████████████████████████   100.00 % 
@@ -76,7 +79,7 @@ Solidity                 3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2025 18:50:21 UTC
+ Last Updated on 26/07/2025 18:48:22 UTC
 <!--END_SECTION:waka-->
 
 
