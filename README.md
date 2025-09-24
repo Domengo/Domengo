@@ -19,6 +19,45 @@
  > 
 > 🔑 36 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+🌆 Daytime                1059 commits        ████████░░░░░░░░░░░░░░░░░   30.46 % 
+🌃 Evening                776 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+🌙 Night                  1507 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   607 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Tuesday                  566 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Wednesday                485 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Thursday                 583 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Friday                   479 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Saturday                 427 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Sunday                   330 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -36,7 +75,7 @@ Solidity                 3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2025 18:47:01 UTC
+ Last Updated on 24/09/2025 18:46:27 UTC
 <!--END_SECTION:waka-->
 
 
