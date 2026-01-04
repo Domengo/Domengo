@@ -3,6 +3,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domengo&show_icons=true)](https://github.com/Domengo/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C183%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -17,6 +19,45 @@
  > 
 > 🔑 40 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                135 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+🌆 Daytime                1068 commits        ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+🌃 Evening                789 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+🌙 Night                  1608 commits        ███████████░░░░░░░░░░░░░░   44.67 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   610 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Tuesday                  584 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Wednesday                486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Thursday                 585 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Friday                   530 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Saturday                 465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Sunday                   340 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -34,7 +75,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Domengo/Domengo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:49:42 UTC
+ Last Updated on 04/01/2026 18:48:38 UTC
 <!--END_SECTION:waka-->
 
 
